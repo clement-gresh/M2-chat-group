@@ -8,6 +8,7 @@ Zimeng ZHANG.  Yajie LIU.  Clement GRESH
 **Base de donnée:**
 Installer MySQL sur votre ordinateur.
 Importer le fichier *linker_chatgroup.sql pour créer le BDD.*
+Indiquer l'URL, le nom d'utilisateur et le mot de passe pour la BDD dans le fichier linker_backend/Linker/src/main/resources/application.properties.
 
 ---
 
