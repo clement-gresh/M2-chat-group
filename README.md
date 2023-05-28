@@ -1,16 +1,17 @@
 # Linker
 ### Membre du groupe:
 
-Zimeng ZHANG.  Yajie LIU.  Clement GRESH
+Zimeng ZHANG.  Yajie LIU.  Clement GRESH  
 
 ### Instructions pour l'exécution du projet:
 
-**Base de donnée:**
-Installer MySQL sur votre ordinateur.
+---
 
-Importer le fichier *linker_chatgroup.sql pour créer le BDD.*
-
-Indiquer l'URL, le nom d'utilisateur et le mot de passe pour la BDD dans le fichier linker_backend/Linker/src/main/resources/application.properties.
+**Base de donnée:**  
+- Installer MySQL sur votre ordinateur.  
+- Importer le fichier *linker_chatgroup.sql* pour créer la BDD.  
+- Indiquer l'URL, le nom d'utilisateur et le mot de passe pour la BDD dans le fichier :  
+*linker_backend/Linker/src/main/resources/application.properties*.
 
 ---
 
